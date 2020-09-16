@@ -4,7 +4,7 @@ abstract class AbstractModifier {
   public String fname = "John";
   public int age = 24;
   public abstract void study(); // abstract method
-}
+}//njkkkkkkkk
 
 // Subclass (inherit from Person)
 class Student extends AbstractModifier {
